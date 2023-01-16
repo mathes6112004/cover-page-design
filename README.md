@@ -150,6 +150,7 @@ img {
 
 ## OUTPUT:
 ### Home Page:
+![image](https://user-images.githubusercontent.com/118343379/212642615-3a6dbb6f-e1b4-4ebd-9879-13f74c0c758c.png)
 
 
 ## Result:
