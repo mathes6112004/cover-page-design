@@ -55,11 +55,11 @@ The Website is published.We created a webpage displaying the cover page of the b
              
          }
          .tophr{
-             color: red;
+             color:#e36f2f;
               width: 180px;
          }
          hr{
-             color: red;
+             color:#e36f2f;
             
          }
          .booktitle{
@@ -103,7 +103,7 @@ The Website is published.We created a webpage displaying the cover page of the b
   margin-right: 20px;
 }
 .bottomhr { 
-    color: red;
+    color:#e36f2f;
               width: 400px;
 
 }
@@ -114,10 +114,10 @@ img {
     vertical-align: bottom;
 }
 .edition {
-    color:white;
+    color:#e36f2f;
              font-family: Arial, Helvetica, sans-serif;
  font-size: 22px;
- line-height: 100px;
+ line-height: 20px;
  
 }
 
@@ -145,12 +145,15 @@ img {
         
     
 </html>
+
+     
 ```
 
 
 ## OUTPUT:
 ### Home Page:
-![image](https://user-images.githubusercontent.com/118343379/212642615-3a6dbb6f-e1b4-4ebd-9879-13f74c0c758c.png)
+![Screenshot (85)](https://user-images.githubusercontent.com/118343379/212694283-e1f36876-94c2-4ba8-8eb3-14fba8be2d26.png)
+
 
 
 ## Result:
