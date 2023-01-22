@@ -152,7 +152,8 @@ img {
 
 ## OUTPUT:
 ### Home Page:
-![Screenshot (85)](https://user-images.githubusercontent.com/118343379/212694283-e1f36876-94c2-4ba8-8eb3-14fba8be2d26.png)
+![Screenshot (112)](https://user-images.githubusercontent.com/118343379/213902579-014d0a5c-3cee-4b34-adc9-fce35e6e06da.png)
+
 
 
 
